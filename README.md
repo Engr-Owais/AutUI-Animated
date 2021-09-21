@@ -1,9 +1,3 @@
-# Flutter Animated UI - Login & Registration Page - Flutter UI
-
-## [Watch it on YouTube](https://youtu.be/MTgEtUZtPqE)
-
-# [Complete Code](https://cutt.ly/cWge85W)
-
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
